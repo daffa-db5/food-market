@@ -2,3 +2,6 @@
 Food Market 1 and 2 Source Code
 This is my first ever program :D
 i'm using windows batch language
+
+# Why i name it "Food Market" ?
+i was inspired by a tv show on National Geografic People called "The world's best Food Market" and i just liked it and i want to make a software with that name :D
