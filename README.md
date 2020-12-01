@@ -7,7 +7,5 @@ written using windows batch language
 i was inspired by a tv show on NatGeo People called "The world's best Food Market" and I just liked it and i want to make a software with that name :D
 
 ## 2nd Anniversary on 1st November 2020
-### Food Market Web (Beta)
-to celebrate the 2nd Anniversary of Food Market, ifoodsoft and i developing food market to be run on web so you can use it anywhere, anytime on any devices :D  
-[Try it now!](https://ifoodsoft.herokuapp.com/market)  
-[My Man](https://ifoodsoft.herokuapp.com/myman)  
+### Open Food Market
+to celebrate the 2nd Anniversary of Food Market, I currently developing an open source food market that cross platform, written in C++. if you interested you can check the repository [here](https://github.com/daffa-db5/open-market)
