@@ -4,18 +4,18 @@ This is my first ever program :D
 written using windows batch language
 
 ## Versions Information & Features
-- Version 1.0
+- Version 1.0 (1 November 2018)
   - Basic Food Market
   - 3 Apps only (Food Market, Food Market News, Food Notes)
  
- - Version 2.0
+- Version 2.0 (18 November 2018)
   - Big update
   - New Food Office Documents and Data
   - Saving file into memory (not on disk)
   - Personalization
   - And more than 5 new apps
   
-- Version 3.9
+- Version 3.0 (24 March 2019)
   - Fixes and Enhancement from v2.0
   - File is now saved to disk
   - More personalization options
