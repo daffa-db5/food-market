@@ -9,3 +9,5 @@ i was inspired by a tv show on NatGeo People called "The world's best Food Marke
 ## 2nd Anniversary on 1st November 2020
 ### Open Food Market
 to celebrate the 2nd Anniversary of Food Market, I currently developing an open source food market that cross platform, written in C++. if you interested you can check the repository [here](https://github.com/daffa-db5/open-market)
+### Food Market Web
+Now, you can use food market right on the web so you can use it anywhere anytime :) Check it out [here](http://fmarket.cf)
