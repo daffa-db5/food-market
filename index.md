@@ -7,7 +7,7 @@ All manuals that are shown here are basically copied from the original software 
 
 #### Food Market 1.0
 Product Information: [about.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/about.txt)  
-Product Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/about.txt)  
+Product Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/manual.txt)  
 
 
 #### Food Market 2.0
