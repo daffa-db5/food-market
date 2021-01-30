@@ -21,8 +21,12 @@ I think I'm gonna name it **Food Market 3.1**, so stay tuned ;)
 Product Information: [about.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/about.txt)  
 Product Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/manual.txt)  
 
-
 #### Food Market 2.0
+Food Market 2.0 has it's own builtin manual but it also has a textfile manual  
 Product Information and Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/2.0/manual.txt)  
+
+#### Food Market 786
+Food Market 786 has it's own builtin manual so I basically just copy the content from it  
+Product Information and Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/786/manual.txt)
 
 #### Food Market 3.0
