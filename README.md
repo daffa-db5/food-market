@@ -20,6 +20,10 @@ written using windows batch language
   - File is now saved to disk
   - More personalization options
   - Bug Fixes and Performance Improvements
+  
+- 786
+  - it's basically a command line version of food market 2.0
+  - you can use it like a command prompt
 
 ## Why do I name it "Food Market" ?
 i was inspired by a tv show on NatGeo People called "The world's best Food Market" and I just liked it and i want to make a software with that name :D
