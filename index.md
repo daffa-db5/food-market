@@ -15,6 +15,8 @@ I think I'm gonna name it **Food Market 3.1**, so stay tuned ;)
 
 ### Information and Manual
 
+***Note that**, I created this on late 2018 and early 2019, so my english was still bad, so enjoy :3*
+
 #### Food Market 1.0
 Product Information: [about.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/about.txt)  
 Product Manual: [manual.txt](https://raw.githubusercontent.com/daffarahman/food-market/gh-pages/docs/1.0/manual.txt)  
