@@ -1,7 +1,0 @@
-about :
-
--name : food market software
--version : 1.0
--date created : 11/1/2018
--support until : 12/30/2020
--publisher : Daffa Rahman
